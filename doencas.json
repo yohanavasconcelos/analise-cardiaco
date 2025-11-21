@@ -1,0 +1,143 @@
+[
+    {
+        "nome": "Doença Arterial Coronariana (DAC)",
+        "descricao": "Ocorre quando as artérias que fornecem sangue ao músculo cardíaco se tornam endurecidas e estreitadas devido ao acúmulo de placa (aterosclerose), limitando o fluxo sanguíneo. É a principal causa de infarto.",
+        "ano_primeira_descricao": "1761 (descrição de aterosclerose)",
+        "link_oficial": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doenca-isquemica-do-coracao",
+        "tags": [
+            "coração",
+            "artérias",
+            "placa",
+            "aterosclerose",
+            "crônica",
+            "infarto"
+        ]
+    },
+    {
+        "nome": "Insuficiência Cardíaca (IC)",
+        "descricao": "Condição crônica e progressiva na qual o músculo cardíaco se torna incapaz de bombear sangue suficiente para atender às necessidades do corpo. Pode ser sistólica (problema de contração) ou diastólica (problema de relaxamento).",
+        "ano_primeira_descricao": "Século XVII (início da compreensão moderna)",
+        "link_oficial": "https://sociedades.cardiol.br/dicas/insuficiencia-cardiaca/",
+        "tags": [
+            "coração",
+            "bombeamento",
+            "crônica",
+            "edema",
+            "dispneia",
+            "ICC"
+        ]
+    },
+    {
+        "nome": "Arritmias Cardíacas (Fibrilação Atrial - FA)",
+        "descricao": "Irregularidades no ritmo cardíaco. A Fibrilação Atrial (FA) é a arritmia mais comum, caracterizada por batimentos rápidos e irregulares nas câmaras superiores do coração (átrios). Aumenta o risco de AVC.",
+        "ano_primeira_descricao": "1909 (primeira descrição eletrocardiográfica da FA)",
+        "link_oficial": "https://www.rblh.org.br/revista/index.php/rblh/article/view/154/104",
+        "tags": [
+            "coração",
+            "ritmo",
+            "eletricidade",
+            "palpitação",
+            "AVC",
+            "taquicardia"
+        ]
+    },
+    {
+        "nome": "Hipertensão Arterial Sistêmica (HAS)",
+        "descricao": "Condição crônica caracterizada por níveis elevados de pressão arterial no sistema circulatório, o que força o coração a trabalhar mais. É um fator de risco majoritário para DAC, AVC e IC. Muitas vezes é assintomática (silenciosa).",
+        "ano_primeira_descricao": "Século XX (reconhecimento como doença e fator de risco)",
+        "link_oficial": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao",
+        "tags": [
+            "pressão",
+            "vasos",
+            "crônica",
+            "fator de risco",
+            "sistêmica",
+            "AVC"
+        ]
+    },
+    {
+        "nome": "Infarto Agudo do Miocárdio (IAM)",
+        "descricao": "Comumente conhecido como ataque cardíaco. Ocorre quando o suprimento de sangue para uma parte do músculo cardíaco é subitamente bloqueado, geralmente por um coágulo em uma artéria coronariana, causando necrose (morte) do tecido cardíaco.",
+        "ano_primeira_descricao": "Século XX (definição moderna e tratamento)",
+        "link_oficial": "https://www.rblh.org.br/revista/index.php/rblh/article/view/174/119",
+        "tags": [
+            "coração",
+            "emergência",
+            "coágulo",
+            "dor no peito",
+            "necrose",
+            "DAC"
+        ]
+    },
+    {
+        "nome": "Taquicardia Ventricular Polimórfica Catecolaminérgica (TVPC)",
+        "descricao": "Uma rara arritmia cardíaca hereditária, caracterizada por episódios de taquicardia ventricular polimórfica que são desencadeados por estresse físico ou emocional (liberação de catecolaminas). Pode causar síncope e morte súbita em jovens.",
+        "ano_primeira_descricao": "1978 (descrição formal)",
+        "link_oficial": "https://www.hcor.com.br/hcor-abre-novo-servico-para-tratamento-de-doenca-rara-que-causa-parada-cardiaca/",
+        "tags": [
+            "coração",
+            "arritmia",
+            "genética",
+            "exercício",
+            "catecolaminas",
+            "morte súbita",
+            "rara"
+        ]
+    },
+    {
+        "nome": "Cardiomiopatia Hipertrófica (CMH)",
+        "descricao": "Uma doença genética que causa o espessamento anormal (hipertrofia) do músculo cardíaco, dificultando o bombeamento eficiente do sangue e, em alguns casos, obstruindo o fluxo para fora do coração. É uma causa comum de morte súbita em atletas.",
+        "ano_primeira_descricao": "1958 (descrição moderna)",
+        "link_oficial": "https://www.hospitaldocoracao.com.br/doencas/cardiomiopatia-hipertrofica/",
+        "tags": [
+            "coração",
+            "músculo",
+            "genética",
+            "hipertrofia",
+            "morte súbita",
+            "raro"
+        ]
+    },
+    {
+        "nome": "Estenose Aórtica (Valvulopatia)",
+        "descricao": "É o estreitamento da válvula aórtica, que controla o fluxo de sangue do ventrículo esquerdo para a aorta. O coração precisa trabalhar mais para bombear o sangue, causando sintomas como dor no peito (angina), desmaio (síncope) e IC.",
+        "ano_primeira_descricao": "Século XVIII",
+        "link_oficial": "https://www.rblh.org.br/revista/index.php/rblh/article/view/137/91",
+        "tags": [
+            "coração",
+            "válvula",
+            "estreitamento",
+            "valvular",
+            "cirurgia",
+            "IC"
+        ]
+    },
+    {
+        "nome": "Trombose Venosa Profunda (TVP)",
+        "descricao": "Formação de um coágulo de sangue (trombo) em uma ou mais veias grandes e profundas, geralmente nas pernas. Embora não seja uma doença do coração, é uma condição vascular que pode levar à embolia pulmonar, uma emergência cardíaca-respiratória.",
+        "ano_primeira_descricao": "1856 (descrição de Virchow)",
+        "link_oficial": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/t/trombose-venosa-profunda-tvp",
+        "tags": [
+            "vascular",
+            "veias",
+            "coágulo",
+            "emergência",
+            "pulmão",
+            "embolia"
+        ]
+    },
+    {
+        "nome": "Aneurisma da Aorta",
+        "descricao": "Dilatação anormal e permanente de um segmento da aorta (a principal artéria do corpo). Geralmente ocorre na parte abdominal ou torácica. O risco é a ruptura, que causa sangramento interno maciço e é fatal.",
+        "ano_primeira_descricao": "Século II (descrição de Galeno)",
+        "link_oficial": "https://sociedades.cardiol.br/sbacv/publico/aorta-o-que-e.asp",
+        "tags": [
+            "vascular",
+            "artéria",
+            "aorta",
+            "dilatação",
+            "ruptura",
+            "emergência"
+        ]
+    }
+]

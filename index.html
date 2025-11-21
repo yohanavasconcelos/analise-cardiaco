@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Doenças Cardiacas</title>
+</head>
+<body>
+    <header>
+        <h1>Doenças Cardiacas</h1>
+        <div class="busca-container">
+            <input type="text" id="input-busca" placeholder="Digite uma doença cardiaca para saber mais">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
 
+    <main>
+        <section class="conteudo-central">
+            <div id="coracao-pulsante" class="coracao-inicio">
+                <img src="img/coração.png" 
+                alt="Desenho colorido de coração humano" 
+                class="coracao-simbolo">
+                <p>Pesquise algo para começar!</p>
+            </div>
+
+            <div class="card-container" id="card-container">
+                </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/yohanavasconcelos" target="_blank">GitHub</a>
+            </li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
