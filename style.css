@@ -45,8 +45,9 @@ header h1 {
     white-space: nowrap;
 }
 
-.home{
-    font-size: 2.5rem;
+.img-home{
+    width: 5rem;
+    height: auto;
 }
 
 .busca-container {
