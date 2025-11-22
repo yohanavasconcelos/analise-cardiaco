@@ -9,24 +9,21 @@
  # Tecnologias utilizadas
 
 ## Back-end
--JavaScript
--Json
+- JavaScript
+- Json
 
 ## Front-end
-
--HTML
--CSS
+- HTML
+- CSS
 
 ## Referência de código
--Junto com o google gemini
+- Junto com o google gemini
 
 # Autor
 
 Yohana Alves Vasconcelos
 
 
-
-Yohana Alves Vasconcelos
 
 
 
