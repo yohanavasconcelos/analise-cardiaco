@@ -4,7 +4,7 @@
  O site de analise cardíaco traz algumas doenças cardíacas onde você pode buscar elas e saber mais sobre cada uma delas.
 
  ##Página inicial
- ![web_1](https://github.com/yohanavasconcelos/aplicativo-de-convites/blob/main/assets/pagina_inicial).
+ <img width="1920" height="1030" alt="pagina_inicial" src="https://github.com/user-attachments/assets/4d5fac24-5bc8-4ff9-8ef3-2e97cc75a269" />
 
  #Tecnologias utilizadas
 
@@ -13,6 +13,7 @@
 -Json
 
 ##Front-end
+
 -HTML
 -CSS
 
@@ -22,5 +23,6 @@
 #Autor
 
 Yohana Alves Vasconcelos
+
 
 
