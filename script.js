@@ -8,13 +8,13 @@ let dados = []; // Armazenará os dados do JSON
 
 // Função principal de busca e transição de layout
 async function iniciarBusca() {
-    
+
     // 1. Carregamento dos dados
     // Se os dados ainda não foram carregados, busca do JSON.
     if (dados.length === 0) {
         try {
             // CORREÇÃO: Usando 'doencas.json'
-            let resposta = await fetch("doencas.json"); 
+            let resposta = await fetch("doencas.json");
             dados = await resposta.json();
         } catch (error) {
             console.error("Falha ao buscar dados:", error);
@@ -32,7 +32,7 @@ async function iniciarBusca() {
 
     // 3. Lógica de Filtragem
     const termoBusca = campoBusca.value.toLowerCase().trim();
-    
+
     const dadosFiltrados = dados.filter(dado =>
         // Busca pelo nome
         dado.nome.toLowerCase().includes(termoBusca) ||
@@ -59,11 +59,11 @@ function renderizarCards(dados, termoBusca) {
     for (let dado of dados) {
         let article = document.createElement("article");
         article.classList.add("card");
-        
+
         // Gera o HTML das tags
         const tagsHtml = dado.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ');
 
-    
+
         article.innerHTML = `
             <h2>${dado.nome}</h2>
             <p><strong>Primeira Descrição:</strong> ${dado.ano}</p>
@@ -73,4 +73,5 @@ function renderizarCards(dados, termoBusca) {
         `;
         cardContainer.appendChild(article);
     }
+    
 }
