@@ -3,7 +3,7 @@
         "nome": "Doença Arterial Coronariana (DAC)",
         "descricao": "Ocorre quando as artérias que fornecem sangue ao músculo cardíaco se tornam endurecidas e estreitadas devido ao acúmulo de placa (aterosclerose), limitando o fluxo sanguíneo. É a principal causa de infarto.",
         "ano": "1761 (descrição de aterosclerose)",
-        "link": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doenca-isquemica-do-coracao",
+        "link": "https://www.rededorsaoluiz.com.br/doencas/doenca-arterial-coronariana-dac",
         "tags": [
             "coração",
             "artérias",
@@ -17,7 +17,7 @@
         "nome": "Insuficiência Cardíaca (IC)",
         "descricao": "Condição crônica e progressiva na qual o músculo cardíaco se torna incapaz de bombear sangue suficiente para atender às necessidades do corpo. Pode ser sistólica (problema de contração) ou diastólica (problema de relaxamento).",
         "ano": "Século XVII (início da compreensão moderna)",
-        "link": "https://sociedades.cardiol.br/dicas/insuficiencia-cardiaca/",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/insufici%C3%AAncia-card%C3%ADaca/insufici%C3%AAncia-card%C3%ADaca-ic#Causas_v718882_",
         "tags": [
             "coração",
             "bombeamento",
@@ -31,7 +31,7 @@
         "nome": "Arritmias Cardíacas (Fibrilação Atrial - FA)",
         "descricao": "Irregularidades no ritmo cardíaco. A Fibrilação Atrial (FA) é a arritmia mais comum, caracterizada por batimentos rápidos e irregulares nas câmaras superiores do coração (átrios). Aumenta o risco de AVC.",
         "ano": "1909 (primeira descrição eletrocardiográfica da FA)",
-        "link": "https://www.rblh.org.br/revista/index.php/rblh/article/view/154/104",
+        "link": "https://www.msdmanuals.com/pt/profissional/doen%C3%A7as-cardiovasculares/arritmias-card%C3%ADacas-espec%C3%ADficas/fibrila%C3%A7%C3%A3o-atrial#Sinais-e-sintomas_v938110_pt",
         "tags": [
             "coração",
             "ritmo",
@@ -45,7 +45,7 @@
         "nome": "Hipertensão Arterial Sistêmica (HAS)",
         "descricao": "Condição crônica caracterizada por níveis elevados de pressão arterial no sistema circulatório, o que força o coração a trabalhar mais. É um fator de risco majoritário para DAC, AVC e IC. Muitas vezes é assintomática (silenciosa).",
         "ano": "Século XX (reconhecimento como doença e fator de risco)",
-        "link": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao",
+        "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/abril/hipertensao-arterial-sistemica-saude-explica-o-que-e-quais-os-riscos-e-como-prevenir-a-doenca-e-os-agravos",
         "tags": [
             "pressão",
             "vasos",
@@ -59,7 +59,7 @@
         "nome": "Infarto Agudo do Miocárdio (IAM)",
         "descricao": "Comumente conhecido como ataque cardíaco. Ocorre quando o suprimento de sangue para uma parte do músculo cardíaco é subitamente bloqueado, geralmente por um coágulo em uma artéria coronariana, causando necrose (morte) do tecido cardíaco.",
         "ano": "Século XX (definição moderna e tratamento)",
-        "link": "https://www.rblh.org.br/revista/index.php/rblh/article/view/174/119",
+        "link": "https://www.msdmanuals.com/pt/profissional/doen%C3%A7as-cardiovasculares/doen%C3%A7a-coronariana/infarto-agudo-do-mioc%C3%A1rdio-iam#Diagn%C3%B3stico_v27852699_pt",
         "tags": [
             "coração",
             "emergência",
@@ -73,7 +73,7 @@
         "nome": "Taquicardia Ventricular Polimórfica Catecolaminérgica (TVPC)",
         "descricao": "Uma rara arritmia cardíaca hereditária, caracterizada por episódios de taquicardia ventricular polimórfica que são desencadeados por estresse físico ou emocional (liberação de catecolaminas). Pode causar síncope e morte súbita em jovens.",
         "ano": "1978 (descrição formal)",
-        "link": "https://www.hcor.com.br/hcor-abre-novo-servico-para-tratamento-de-doenca-rara-que-causa-parada-cardiaca/",
+        "link": "https://www.msdmanuals.com/pt/profissional/doen%C3%A7as-cardiovasculares/doen%C3%A7as-card%C3%ADacas-arritmog%C3%AAnicas/taquicardia-ventricular-polim%C3%B3rfica-catecolamin%C3%A9rgica",
         "tags": [
             "coração",
             "arritmia",
@@ -88,7 +88,7 @@
         "nome": "Cardiomiopatia Hipertrófica (CMH)",
         "descricao": "Uma doença genética que causa o espessamento anormal (hipertrofia) do músculo cardíaco, dificultando o bombeamento eficiente do sangue e, em alguns casos, obstruindo o fluxo para fora do coração. É uma causa comum de morte súbita em atletas.",
         "ano": "1958 (descrição moderna)",
-        "link": "https://www.hospitaldocoracao.com.br/doencas/cardiomiopatia-hipertrofica/",
+        "link": "https://www.mayoclinic.org/diseases-conditions/hypertrophic-cardiomyopathy/symptoms-causes/syc-20350198",
         "tags": [
             "coração",
             "músculo",
@@ -99,10 +99,10 @@
         ]
     },
     {
-        "nome": "Estenose Aórtica (Valvulopatia)",
+        "nome": "Estenose Aórtica",
         "descricao": "É o estreitamento da válvula aórtica, que controla o fluxo de sangue do ventrículo esquerdo para a aorta. O coração precisa trabalhar mais para bombear o sangue, causando sintomas como dor no peito (angina), desmaio (síncope) e IC.",
         "ano": "Século XVIII",
-        "link": "https://www.rblh.org.br/revista/index.php/rblh/article/view/137/91",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/valvulopatias/estenose-a%C3%B3rtica",
         "tags": [
             "coração",
             "válvula",
@@ -116,7 +116,7 @@
         "nome": "Trombose Venosa Profunda (TVP)",
         "descricao": "Formação de um coágulo de sangue (trombo) em uma ou mais veias grandes e profundas, geralmente nas pernas. Embora não seja uma doença do coração, é uma condição vascular que pode levar à embolia pulmonar, uma emergência cardíaca-respiratória.",
         "ano": "1856 (descrição de Virchow)",
-        "link": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/t/trombose-venosa-profunda-tvp",
+        "link": "https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/symptoms-causes/syc-20352557",
         "tags": [
             "vascular",
             "veias",
@@ -130,7 +130,7 @@
         "nome": "Aneurisma da Aorta",
         "descricao": "Dilatação anormal e permanente de um segmento da aorta (a principal artéria do corpo). Geralmente ocorre na parte abdominal ou torácica. O risco é a ruptura, que causa sangramento interno maciço e é fatal.",
         "ano": "Século II (descrição de Galeno)",
-        "link": "https://sociedades.cardiol.br/sbacv/publico/aorta-o-que-e.asp",
+        "link": "https://www.msdmanuals.com/pt/profissional/doen%C3%A7as-cardiovasculares/doen%C3%A7as-da-aorta-e-seus-ramos/vis%C3%A3o-geral-dos-aneurismas-a%C3%B3rticos",
         "tags": [
             "vascular",
             "artéria",
@@ -145,7 +145,7 @@
         "nome": "Aterosclerose (Doença Aterosclerótica)",
         "descricao": "Acúmulo de placas de gordura, colesterol e outras substâncias (ateromas) nas paredes internas das artérias, tornando-as mais estreitas, rígidas e menos elásticas. É a base para muitas doenças, incluindo a Doença Arterial Coronariana (DAC).",
         "ano": "Século XIX (descrição moderna do mecanismo patológico)",
-        "link": "https://sociedades.cardiol.br/sbc/informacoes/aterosclerose.asp",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/aterosclerose/aterosclerose",
         "tags": [
         "gordura",
         "artéria",
@@ -159,7 +159,7 @@
         "nome": "Cardiomiopatia Dilatada",
         "descricao": "Doença caracterizada pela dilatação e fraqueza do músculo cardíaco, comprometendo a capacidade de bombeamento do coração. Pode ter causas genéticas, infecciosas ou tóxicas.",
         "ano": "Século XX",
-        "link": "https://www.cdc.gov/heart-disease/cardiomyopathy.htm",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/cardiomiopatia/cardiomiopatia-dilatada",
         "tags": [
             "miocárdio",
             "dilatação",
@@ -167,6 +167,20 @@
             "insuficiência cardíaca",
             "disfunção sistólica"
         ]
+    },
+    {
+    "nome": "Miocardiopatia Dilatada (MCD)",
+    "descricao": "Doença do músculo cardíaco (miocárdio) caracterizada pelo aumento (dilatação) das câmaras cardíacas, especialmente o ventrículo esquerdo, e por uma redução da sua capacidade de bombear sangue (disfunção sistólica). É uma causa comum de insuficiência cardíaca e pode ser idiopática (causa desconhecida) ou secundária a outras condições (como alcoolismo, infecções ou doenças genéticas).",
+    "ano_primeira_descricao": "Século XIX (reconhecimento como entidade clínica distinta)",
+    "link_oficial": "https://vidasaudavel.einstein.br/miocardiopatia-dilatada-o-que-e-e-como-tratar/",
+    "tags": [
+      "músculo cardíaco",
+      "cardiomiopatia",
+      "dilatação",
+      "bombeamento",
+      "insuficiência cardíaca",
+      "genética"
+    ]
     }
 ]
 

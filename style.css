@@ -5,12 +5,12 @@
 }
 
 :root {
-    --primary-color: #8ab4f8; /* Cor primária (azul claro / destaque) */
-    --secondary-color: #e8eaed; /* Cor secundária (cinza claro / texto principal) */
-    --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio / texto auxiliar) */
-    --bg-color: #202124; /* Cor de fundo (cinza escuro) */
-    --card-bg-hover: #3c4043; /* Cor de fundo do card ao passar o mouse */
-    --link-hover: #a1c3fb; /* Cor do link ao passar o mouse */
+    --primary-color: #FF4081; 
+    --secondary-color: #F5F5F5; 
+    --tertiary-color: #B0BEC5; 
+    --bg-color: #1E3D59;
+    --card-bg-hover: #355C7D; 
+    --link-hover: #a1c3fb; 
 }
 
 body {
@@ -48,6 +48,7 @@ header h1 {
 .busca-container {
     display: flex;
     align-items: center;
+    width: clamp(20rem, 50vw, 30rem);
 }
 
 .busca-container input { /* Estilo do input mantido, mas seletor mais específico */
